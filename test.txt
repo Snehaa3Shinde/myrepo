@@ -1,3 +1,2 @@
 i am creating new file
-This is second line from local.
-This is third line from github online.
+This is second line
